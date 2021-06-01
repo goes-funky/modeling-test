@@ -18,7 +18,6 @@ Graphical representation of actual use-case:
 Use your imagination to fill in the missing information however you like to achieve the result.
 
 # Bonus Points
- - Usage of any PHP framework (Lumen, Laravel, symfony etc)
- - Optimize `request-data.json` json structure/schema
- - Scalable structure (Suggestion)
- - Suggestion on how to validate the columns used inside the nodes
+ - Optimize `request-data.json` json structure/schema.
+ - Extendable structure which allows to add more types easily in the future.
+ - Suggestion on how to validate the columns used inside the nodes.
