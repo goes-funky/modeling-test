@@ -1,7 +1,6 @@
 # Task
 
-- Parse `request-data.json` into the query. 
-- Create an API that takes this json as an input and return data after applying multiple transformations
+- Parse `request-data.json` into the query similar to `result.sql`. 
 
 Inside `request-data.json` you have two properties `nodes` and `edges`, `nodes` contains all the required information to apply the transformation into Table/Query and `edges` represents how they are linked together. In each node there is a property `transformObject` which is different for each `type`
 There are 5 different types of nodes used in this request
