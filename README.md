@@ -1,3 +1,6 @@
+** ATTENTION **
+Please do not publicly fork this repository.
+
 # Task
 
 - Parse `request-data.json` into the query similar to `result.sql`. 
